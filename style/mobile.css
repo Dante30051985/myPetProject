@@ -1,0 +1,22 @@
+.mContainer{
+    flex-direction: column-reverse;
+}
+
+.upBlockLeft{
+    flex-direction: column;
+}
+
+.greeting{
+    width: inherit;
+    padding: 30px;
+    line-height: 25px;
+}
+
+.cntBtnContent{
+    justify-content: center;
+}
+
+.rContainer{
+    width: inherit;
+    border: none;
+}
