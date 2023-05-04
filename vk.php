@@ -5,8 +5,8 @@ include_once './php/db/checkedDb.php';
 if(isset($_GET['code'])) {
   
   $params = array(  
-    'client_id' => '51632558',
-    'client_secret' => 'QkVBC5ZPouSh1DMV7MWk',
+    'client_id' => '**********',
+    'client_secret' => '**********',
     'redirect_uri' => 'https://scn-ural.ru/vk.php',
     'code' => $_GET['code']
   );
