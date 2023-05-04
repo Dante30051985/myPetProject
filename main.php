@@ -9,14 +9,14 @@
         <link rel="stylesheet" href="./style/main.css" >
         <link rel="stylesheet" media="screen and (min-width: 320px) and (max-width: 767px)" href="./style/mobile.css">
         <link rel="stylesheet" media="screen and (min-width: 768px) and (max-width: 1280px)" href="./style/tablet.css">
-   
+        <script src="./js/auth.js" defer></script>
         <title>SCN-Ural.ru - Social network Ural</title>
     </head>
     <body>
         <header>
         <div class="mainTitle">
             <div class="cntLogotype">
-                <div class="cntIcon"><img src="./img/charS.png" alt="social network ural" width="30" ></div>
+                <div class="cntIcon"><img src="./img/chars.png" alt="social network ural" width="30" ></div>
                 <div class="cntNameSite">ocial network Ural</div>
             </div>
         </div>
@@ -59,6 +59,7 @@
                     <div class="titleAuth">
                         <img src="./img/chars2.png" alt="social network ural" width="30" >
                         <div class="cntNameSite">ocial network Ural</div>
+                        
                     </div>
                     <div class="cntFormAuth">
                         <div class="cntInputAuth">
