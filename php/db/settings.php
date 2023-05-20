@@ -1,8 +1,8 @@
 <?php
 
-$host = '188.127.239.144';
+$host = '188.127.239.1454';
 $database = 'scn_ural';
-$user = 'dante';
-$passw = 'vowa1955';
+$user = 'dante***k';
+$passw = 'vowa1955***';
 
 ?>
